@@ -17,9 +17,10 @@
     border: 2px solid black;
 }
 
-/* .header .navlink .navitem{
+.header .navlink .navitem{
     display: block;
-} */
+    text-decoration: none;
+}
 
 .header .login{
     flex: 30;
