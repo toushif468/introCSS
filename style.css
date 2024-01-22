@@ -1,0 +1,37 @@
+.header{
+    display: flex;
+    border: 5px solid black;
+}
+
+.header .logo{
+    background-color: aquamarine;
+    height: 40vh;
+    flex: 50;
+    border: 2px sold black;
+}
+
+.header .navlink{
+    flex: 30;
+    height: 40vh;
+    background-color: brown;
+    border: 2px solid black;
+}
+
+/* .header .navlink .navitem{
+    display: block;
+} */
+
+.header .login{
+    flex: 30;
+    height: 40vh;
+    background-color: bisque;
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
